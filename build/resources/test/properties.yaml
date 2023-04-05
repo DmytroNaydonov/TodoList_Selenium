@@ -1,4 +1,0 @@
-url: https://eviltester.github.io/simpletodolist/todolists.html
-browser:
-  name: Chrome
-  headless: false
